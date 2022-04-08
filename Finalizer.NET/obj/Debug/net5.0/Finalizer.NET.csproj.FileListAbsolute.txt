@@ -1,0 +1,16 @@
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.exe
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.deps.json
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.runtimeconfig.json
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.runtimeconfig.dev.json
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.dll
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\ref\Finalizer.NET.dll
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\bin\Debug\net5.0\Finalizer.NET.pdb
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.csproj.AssemblyReference.cache
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.AssemblyInfoInputs.cache
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.AssemblyInfo.cs
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.dll
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\ref\Finalizer.NET.dll
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.pdb
+C:\Workspace.NET\Finalizer.NET\Finalizer.NET\Finalizer.NET\obj\Debug\net5.0\Finalizer.NET.genruntimeconfig.cache
